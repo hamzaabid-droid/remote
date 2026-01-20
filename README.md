@@ -1,4 +1,4 @@
-RBackend Engineering & Git – Simple Notes
+Backend Engineering & Git – Simple Notes
 Backend Engineering (Real Companies)
 Backend engineers work on server-side logic, databases, APIs, authentication, and performance.
 They ensure data is processed securely and correctly.
